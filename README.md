@@ -1,3 +1,13 @@
+<div style="display: flex; justify-content: center;" align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=VardhanSuroshi&icon=1&color=4" alt="Visit Counter">
+    </a>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&width=435&lines=Namaste!!!+Welcome+to+my+GitHub+Page+.+.+.)](https://git.io/typing-svg)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h1 align="center">Hi 👋, I'm Nguyen Khang</h1>
 <h3 align="center">A senior student at the University of Science in Electronics Engineering major</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQF7HU0UOCJcxA/article-cover_image-shrink_600_2000/0/1690812672671?e=2147483647&v=beta&t=Wtl_nXX-r9r5fBX9Xz-WPA__WvSlh29eDKckDnOmBx8"
